@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class studiKasus2_07 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String namaMahasiswa, jenisKegiatan;
+        int jmlDokumen = 0, juara = 0, statusPKM = 0;
+
+       System.out.println("=== Validasi Dokumen Prestasi Mahasiswa ==="); 
+       System.out.print("Nama : ");
+       namaMahasiswa = sc.nextLine();
+       System.out.print("Jenis kegiatan (BELMAWA, BAKORMA, PKM, Mandiri, dll) : ");
+       jenisKegiatan = sc.nextLine();
+       
+    }
+}
