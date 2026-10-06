@@ -4,5 +4,5 @@ public class studiKasus07 {
         Scanner sc = new Scanner(System.in);
         int hargaPerCup = 18000, jumlahCup, uangBayar, totalHarga, diskon, totalBayar, kembalian, kurang;
 
-        
+    }
 }
