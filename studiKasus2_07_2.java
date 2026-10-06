@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class studiKasus2_07 {
+public class studiKasus2_07_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String namaMahasiswa, jenisKegiatan;
@@ -10,6 +10,6 @@ public class studiKasus2_07 {
        namaMahasiswa = sc.nextLine();
        System.out.print("Jenis kegiatan (BELMAWA, BAKORMA, PKM, Mandiri, dll) : ");
        jenisKegiatan = sc.nextLine();
-       
+
     }
 }
